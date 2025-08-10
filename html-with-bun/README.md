@@ -1,6 +1,6 @@
 # HTML + bun
 
-- Run an HTML file directly using [Bun](https://bun.com/).
+- Run an HTML file directly using [Bun](https://bun.com/docs/bundler/html).
 
 ## Steps
 
@@ -13,3 +13,4 @@
     ```
 
 > Note: Make sure `bun` is installed beforehand.
+
