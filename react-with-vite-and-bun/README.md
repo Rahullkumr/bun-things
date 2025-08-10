@@ -1,4 +1,4 @@
-# React + Vite + Bun
+# Bun + Vite + React
 
 - This guide demonstrates how to use `Bun` as the package manager for a React project created with Vite.
 
@@ -30,10 +30,18 @@
     + "dev": "bunx --bun vite",
     ```
     - The `--bun` flag tells Bun to run Vite's CLI using `bun `instead of **node**
-    - This allows you to take advantage of Bun's performance benefits
-    
+    - This starts the Vite dev server with HMR using Bun as runtime
+
 4. Start the development server:
     ```sh
     bun run dev
     ```
 5. Open your browser and go to `http://localhost:5173` to view your app.
+
+## Why Bun + Vite + React Works So Well
+
+- Bun accelerates dev workflows with its fast package management and bundling capabilities 
+
+- Vite integrates seamlessly, serving React projects with modular hot reloading and optimized production builds 
+
+- Together, they deliver a lightweight, high-performance experience for modern frontend development.
