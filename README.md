@@ -1,2 +1,3 @@
 # bun-things
-All in one bun - a package manager, runtime like nodejs, etc
+
+All in one [bun](https://bun.com/) - a package manager, runtime like nodejs, etc
